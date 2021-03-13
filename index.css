@@ -1,0 +1,15 @@
+body {
+    background-color: #f0f0f0;
+    color: #444;
+    margin: 0;
+}
+a {
+    color: #08f;
+}
+
+
+#handle-update-button {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
